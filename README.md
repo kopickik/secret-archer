@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 nprapps' Project Template
 =========================
 
@@ -157,3 +158,9 @@ The current configuration is for running cron jobs only. Web server configuratio
 * Run ``fab staging master setup`` to configure the server.
 * Run ``fab staging master deploy`` to deploy the app. 
 
+=======
+secret-archer
+=============
+
+JavaScript MVC Test App
+>>>>>>> af0c5af296a17a428a916671cf8e4f76d7c8c304
